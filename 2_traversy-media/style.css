@@ -1,0 +1,25 @@
+/* From: https://youtu.be/gm1QtePAYTM?si=peRIZ7x9XgPLVTWG */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	height: 100dvh;
+}
+
+div {
+	position: relative;
+}
+
+.object {
+	display: none;
+}
+
+canvas {
+	display: block;
+	background-color: black;
+}
