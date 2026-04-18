@@ -1,0 +1,17 @@
+/* From: https://youtu.be/uCH1ta5OUHw?si=fwsUe7RemWlnq30_ */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	width: 100%;
+	height: 100dvh;
+}
+
+canvas {
+	display: block;
+	background-color: black;
+}
