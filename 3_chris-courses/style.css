@@ -1,0 +1,11 @@
+/* https://youtu.be/D_BPilf_F8k?si=93xKvTofXrokBQQ0 */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+canvas {
+	display: block;
+}
