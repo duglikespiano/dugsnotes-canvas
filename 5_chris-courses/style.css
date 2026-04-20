@@ -1,0 +1,15 @@
+/* https://youtu.be/R_CnWF3a_ks?si=aWA2OmtyJI7qysK9 */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	overflow: hidden;
+}
+
+canvas {
+	display: block;
+}
